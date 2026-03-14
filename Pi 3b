@@ -1,4 +1,1 @@
-Pi 3b
- ├── Package.py
- ├── Solenoid.py
- └── buzzer.md
+Solenoid.py
